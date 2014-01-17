@@ -3,3 +3,4 @@ tempfile.txt
 *.gz
 assets/videos/
 !assets/videos/tour_*.mp4
+_*
